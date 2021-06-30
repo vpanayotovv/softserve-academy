@@ -1,0 +1,31 @@
+{
+    "AS_Button_b0c598680c844eb79d0a03e9433c08a9": {
+        "id": "AS_Button_b0c598680c844eb79d0a03e9433c08a9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "LandingPage",
+            "type": "forms",
+            "platform": null,
+            "KUID": "h5168b68da4f46ada7601b23b3e8ca5c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___c135bf60c9db45b7bdfb81a8f55777b0",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "LoginPage",
+            "formKUID": "c27c21c2ea854c37a709aefcdfe4c0cb",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"logBtn\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

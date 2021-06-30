@@ -1,0 +1,37 @@
+{
+    "AS_Label_c2eba72f98e14a39960e1d4c0ed5bfa8": {
+        "id": "AS_Label_c2eba72f98e14a39960e1d4c0ed5bfa8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "LoginPage",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c27c21c2ea854c37a709aefcdfe4c0cb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___e7c3dacba1154dd8a6902dba25445b4e",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "LandingPage",
+            "formKUID": "h5168b68da4f46ada7601b23b3e8ca5c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onTouchStart\",\n        \"widgetId\": \"backArrow\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

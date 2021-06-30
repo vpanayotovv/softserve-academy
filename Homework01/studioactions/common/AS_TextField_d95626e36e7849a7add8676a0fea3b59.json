@@ -1,0 +1,38 @@
+{
+    "AS_TextField_d95626e36e7849a7add8676a0fea3b59": {
+        "id": "AS_TextField_d95626e36e7849a7add8676a0fea3b59",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "uw7fb9d156c8b247b6b54528f72c6bd166",
+            "type": "userwidgets",
+            "KUID": "7fb9d156c8b247b6b54528f72c6bd166"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY____b865ed7587354ae683d578154e41690a",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "EF.UsrNmRndIcn",
+            "widgetId": "frmUserName",
+            "propertyName": "skin",
+            "propertyValue": "CopyskUNRIFocus",
+            "itemKUID": "7fb9d156c8b247b6b54528f72c6bd166",
+            "widgetKUID": "d215fd3bf86141529eec236320de295a",
+            "skinKUID": "s43a6d8852264fc59dc0be40ab922def",
+            "isSkinProperty": true,
+            "wType": "FlexContainer",
+            "currentTheme": "defaultTheme",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.frmUserName"
+        }]
+    }
+}

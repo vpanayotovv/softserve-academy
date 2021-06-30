@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-1dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sc1600ac19094985b28b667499af3f15",
+    "_top_": {
+        "type": "string",
+        "value": "503dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "android": {
+        "centerX": "",
+        "centerY": "",
+        "height": "55dp",
+        "maxHeight": "",
+        "maxWidth": "",
+        "minHeight": "",
+        "minWidth": ""
+    },
+    "canUpdateUI": true,
+    "children": [
+        "regBtn"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "registerBtn",
+    "info": null,
+    "isvisible": true,
+    "kuid": "eee247388357423aaf6d529d8333e655",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flexContainer",
+    "pf": "LandingPage",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spa": {},
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

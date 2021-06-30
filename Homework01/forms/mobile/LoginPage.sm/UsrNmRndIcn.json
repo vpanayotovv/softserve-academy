@@ -1,0 +1,137 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "67dp"
+    },
+    "_iphone_": {},
+    "_left_": {
+        "type": "string",
+        "value": "-1dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s4091e0a0b864a6ab783e9b15f847837",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_top_": {
+        "type": "string",
+        "value": "216dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "UsrNmRndIcn": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "a5496c3c81904168bcb7bb8c25565b55",
+                "srcKUID": "57ed74a8902b4e7da00bb66d09e07898",
+                "wType": "FlexContainer"
+            },
+            "bottom": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "centerX": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "-1dp"
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "216dp"
+                }
+            }
+        },
+        "frmUserName": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e13cf0a717a2437d9e684f40b27afd87",
+                "srcKUID": "d215fd3bf86141529eec236320de295a",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblContact": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g8cc1101b152433481bfd5c29bed6dd6",
+                "srcKUID": "5b7dae0a71864498a0c72a0b15a2dd9f",
+                "wType": "Label"
+            }
+        },
+        "txtUserName": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h9d67f5f87744cd0bab8eb74beb77e6f",
+                "srcKUID": "f4c16ee062f147ce9d84ec67f46cb19e",
+                "wType": "TextField"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "UsrNmRndIcn",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "a5496c3c81904168bcb7bb8c25565b55",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "LoginPage",
+    "pf": "LoginPage",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "57ed74a8902b4e7da00bb66d09e07898",
+    "wType": "UserWidgetInstance"
+}
