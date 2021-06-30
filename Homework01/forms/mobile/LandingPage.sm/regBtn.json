@@ -38,6 +38,7 @@
     "displaytext": true,
     "focusskin": "s04c0a1aa8dd4fbf93118a0c6e053375",
     "id": "regBtn",
+    "ide_onClick": "AS_Button_e110d742d8e94c9f8149a542bb22e84c",
     "info": null,
     "isvisible": true,
     "kuid": "d03bcd27c5034c29abbe70f7e747d7c3",
