@@ -27,7 +27,7 @@
     "_src_": "img_avatar.png",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "-5dp"
     },
     "_width_": {
         "type": "string",
@@ -38,6 +38,7 @@
     "context": {
         "channel": "mobile",
         "formID": "ContactPage",
+        "platform": "android",
         "templateType": "forms",
         "topLevelBox": null
     },

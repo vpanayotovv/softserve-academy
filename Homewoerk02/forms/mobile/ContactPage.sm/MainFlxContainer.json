@@ -38,7 +38,9 @@
     "children": [
         "ContactsContainer",
         "EditLbl",
-        "ContactFlxContainer"
+        "ContactFlxContainer",
+        "OptionsFlexContainer",
+        "PhoneFlexContainer"
     ],
     "clipbounds": true,
     "containerweight": 100,

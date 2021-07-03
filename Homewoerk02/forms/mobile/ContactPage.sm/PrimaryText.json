@@ -30,11 +30,11 @@
     "_text_": "Primary",
     "_top_": {
         "type": "string",
-        "value": "50%"
+        "value": "50.00%"
     },
     "_width_": {
         "type": "string",
-        "value": "30%"
+        "value": "28%"
     },
     "_wrapping_": 2,
     "android": {

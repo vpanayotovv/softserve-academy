@@ -1,9 +1,13 @@
 {
     "DNDConfig": null,
     "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": "0"
+    },
     "_height_": {
         "type": "string",
-        "value": "40%"
+        "value": "50%"
     },
     "_left_": {
         "type": "string",
@@ -26,7 +30,7 @@
     "_skin_": "s5ec6250023e4c4888de2ae9768940d6",
     "_top_": {
         "type": "string",
-        "value": "55%"
+        "value": "52%"
     },
     "_width_": {
         "type": "string",
@@ -39,7 +43,8 @@
         "NameLbl",
         "ProductHunt",
         "SubTextLbl",
-        "PrimaryText"
+        "PrimaryText",
+        "rightArrow"
     ],
     "clipbounds": true,
     "containerweight": 100,
