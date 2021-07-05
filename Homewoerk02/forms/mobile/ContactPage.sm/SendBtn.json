@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "10"
+    },
+    "_skin_": "sbd53e23f0984e3499a49b5f8b864617",
+    "_text_": "Send Massage",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "activeNativeBorderCornerRadiusControl": "topLeftControl",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "s04c0a1aa8dd4fbf93118a0c6e053375",
+    "id": "SendBtn",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bd8bb4c5187a4fb79932ab532176af64",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "SendBtnContainer",
+    "pf": "ContactPage",
+    "wType": "Button",
+    "zindex": 1
+}
