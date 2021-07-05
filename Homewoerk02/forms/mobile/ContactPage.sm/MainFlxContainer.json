@@ -40,7 +40,10 @@
         "EditLbl",
         "ContactFlxContainer",
         "OptionsFlexContainer",
-        "PhoneFlexContainer"
+        "PhoneFlexContainer",
+        "EmailFlexContainer",
+        "NotesFlexContainer",
+        "ButtonsFlexContainer"
     ],
     "clipbounds": true,
     "containerweight": 100,
