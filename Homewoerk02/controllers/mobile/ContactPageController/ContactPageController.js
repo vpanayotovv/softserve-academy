@@ -7,7 +7,9 @@ define({
 
   init: function() {
     this.view.ContactsContainer.onClick = this.clicked;
-    this.view.PhoneFlexContainer.
+    this.view.PhoneFlexContainer.setEnabled(false);
+    this.view.EmailFlexContainer.setEnabled(false);
+    this.view.NotesFlexContainer.setEnabled(false);
   },
 
   preShow: function() {
