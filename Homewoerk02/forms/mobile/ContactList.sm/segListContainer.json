@@ -1,0 +1,152 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_androidwearos_": {},
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_iphone_": {},
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s425c3096e714d798c4ce8125d92be69",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_vizProps_": {},
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_windows8_": {},
+    "_winphone8_": {},
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "AlertsWithThumbnails": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ea6e504f8d8942f8b32c3d48bdb78709",
+                "srcKUID": "ua6f6e18af9746b6939b3e057b8e83b9",
+                "wType": "FlexContainer"
+            },
+            "bottom": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "centerX": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "10%"
+                }
+            }
+        },
+        "segList": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a6ae7e427eb64c50b8ae24e62619d7b5",
+                "srcKUID": "u08517e124204584bd6692f307499a1b",
+                "wType": "Segment"
+            },
+            "data": {
+                "mobile": [
+                    {
+                        "imgArrow": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "chevron_5.png"
+                        },
+                        "imgProfile": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "konymp_user_image_1_3.png"
+                        },
+                        "lblDescription": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "This article is floated online with an intent for an example."
+                        },
+                        "lblHeading": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "System Notification"
+                        },
+                        "lblStrip": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "L"
+                        },
+                        "lblTime": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "2 days ago"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "segListContainer",
+    "info": null,
+    "isdatareferenced": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "ea6e504f8d8942f8b32c3d48bdb78709",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "ContactList",
+    "pf": "ContactList",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "ua6f6e18af9746b6939b3e057b8e83b9",
+    "wType": "UserWidgetInstance"
+}

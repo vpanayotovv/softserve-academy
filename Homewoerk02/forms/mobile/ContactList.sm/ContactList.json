@@ -30,13 +30,14 @@
     },
     "canUpdateUI": true,
     "children": [
-        "MainFlxContainer"
+        "segListContainer",
+        "ContactLbl"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "ContactPageController"
+            "name": "ContactListController"
         }
     },
     "currentLocale": "default",
@@ -46,8 +47,7 @@
     "device": "Pixel3",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "friendlyName": "ContactPage",
-    "id": "ContactPage",
+    "id": "ContactList",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -65,7 +65,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "gf1ee827efe84b1b945b9c357226f144",
+                "kuid": "b1bc4c95f8b44004b516c533552f343d",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -76,7 +76,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "bfd4478d04b04904bb11bd403578e9cb",
+                        "kuid": "e10251fcca0b4b57a19cadfba1a39aa9",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -93,13 +93,13 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "aeb91fff6d9e47b8a44bae9070a8a84f",
+    "kuid": "j0beacb14fb3449090259293a21148eb",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
     "platform": "android",
-    "prevDevice": "GalaxyS5",
+    "prevDevice": "iPhoneXS",
     "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
