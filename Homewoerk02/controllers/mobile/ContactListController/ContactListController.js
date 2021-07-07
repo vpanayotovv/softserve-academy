@@ -1,47 +1,61 @@
 define({
     segDataList: [
-      {name: "Bruce Banner",
+      {
+        name: "Bruce Banner",
        phone: "0888010203",
        email: "email@gmail.com",
        src: "konymp_fb_user_image1_small.png",
        arrow:"chevron_5.png",
-       dateAdded: "25/06/2021"},
-      {name: "James Haris",
+       dateAdded: "25/06/2021"
+      },
+      {
+        name: "James Haris",
        phone: "0888040253",
        email: "email1@gmail.com",
        src: "konymp_fb_user_image5_small.png",
        arrow:"chevron_5.png",
-       dateAdded: "25/06/2021"},
-      {name: "Jennifer Miller",
+       dateAdded: "25/06/2021"
+      },
+      {
+        name: "Jennifer Miller",
        phone: "0888041234",
        email: "email2@gmail.com",
        src: "konymp_fb_user_image2_small.png",
        arrow:"chevron_5.png",
-       dateAdded: "25/06/2021"},
-      {name: "Elizabeth James",
+       dateAdded: "25/06/2021"
+      },
+      {
+        name: "Elizabeth James",
        phone: "0878043456",
        email: "email3@gmail.com",
        src: "konymp_fb_user_image4_small.png",
        arrow:"chevron_5.png",
-       dateAdded: "25/06/2021"},
-      {name: "Richard Gear",
+       dateAdded: "25/06/2021"
+      },
+      {
+        name: "Richard Gear",
        phone: "0878043456",
        email: "email4@gmail.com",
        src: "konymp_fb_user_image1_small.png",
        arrow:"chevron_5.png",
-       dateAdded: "25/06/2021"},
-      {name: "Anthony Joshua",
+       dateAdded: "25/06/2021"
+      },
+      {
+        name: "Anthony Joshua",
        phone: "0878043456",
        email: "email5@gmail.com",
        src: "konymp_fb_user_image3_small.png",
        arrow:"chevron_5.png",
-       dateAdded: "25/06/2021"},
-      {name: "Margaret Rose",
+       dateAdded: "25/06/2021"
+      },
+      {
+        name: "Margaret Rose",
        phone: "0878043456",
        email: "email6@gmail.com",
        src: "konymp_fb_user_image4_small.png",
        arrow:"chevron_5.png",
-       dateAdded: "25/06/2021"},
+       dateAdded: "25/06/2021"
+      },
     ],
     
     formatedData: [],
