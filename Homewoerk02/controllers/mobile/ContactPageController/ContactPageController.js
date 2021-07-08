@@ -1,5 +1,7 @@
 define({ 
 
+  flag:true,
+
   onViewCreated: function() {
     this.view.init = this.init;
     this.view.preShow = this.preShow;
@@ -7,6 +9,7 @@ define({
 
   init: function() {
     this.view.ContactsContainer.onClick = this.clicked;
+    this.view.SwitchTheme.onSlide = this.changeTheme;
     this.view.PhoneFlexContainer.setEnabled(false);
     this.view.EmailFlexContainer.setEnabled(false);
     this.view.NotesFlexContainer.setEnabled(false);
@@ -23,6 +26,24 @@ define({
   clicked: function(){
     var ntf = new kony.mvc.Navigation("ContactList");
     ntf.navigate();
-  }
+  },
+
+  changeTheme: function(){
+    function onsuccesscallback() {
+      alert(`Successfully change Theme`);
+    }
+
+    function onerrorcallback() {
+      alert("Skin does not exist");
+    }
+
+    if(this.flag){
+      kony.theme.setCurrentTheme("DarkTheme", onsuccesscallback, onerrorcallback);
+      this.flag = false;
+    }else{
+      kony.theme.setCurrentTheme("MyTheme", onsuccesscallback, onerrorcallback);
+      this.flag = true;
+    }
+  },
 
 });

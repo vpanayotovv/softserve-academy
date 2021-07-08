@@ -30,7 +30,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "MainFlxContainer"
+        "MainFlxContainer",
+        "SwitchTheme"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -99,7 +100,7 @@
     "needappmenu": false,
     "paddinginpixel": false,
     "platform": "android",
-    "prevDevice": "GalaxyS5",
+    "prevDevice": "iPhoneXS",
     "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
