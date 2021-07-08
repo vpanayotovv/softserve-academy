@@ -40,6 +40,7 @@
     "focusskin": "s04c0a1aa8dd4fbf93118a0c6e053375",
     "id": "AddBtn",
     "info": null,
+    "iscustomlayout": true,
     "isvisible": true,
     "kuid": "de1225d488e7463e99006e9dc82f354d",
     "masterType": 1,
@@ -47,6 +48,9 @@
     "paddinginpixel": false,
     "parent": "AddBtnContainer",
     "pf": "ContactPage",
+    "retaincontentalignment": true,
+    "retainflexpositionproperties": true,
+    "texti18n": "Add to Favorites",
     "wType": "Button",
     "zindex": 1
 }

@@ -47,6 +47,7 @@
     "paddinginpixel": false,
     "parent": "ShareBtnContainer",
     "pf": "ContactPage",
+    "texti18n": "Share Contact",
     "wType": "Button",
     "zindex": 1
 }

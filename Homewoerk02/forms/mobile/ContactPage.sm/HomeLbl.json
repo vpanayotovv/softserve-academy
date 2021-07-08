@@ -62,6 +62,7 @@
     "pf": "ContactPage",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "home",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",

@@ -40,7 +40,7 @@
             "name": "ContactPageController"
         }
     },
-    "currentLocale": "default",
+    "currentLocale": "ar",
     "desktopweb": {
         "needAppMenu": false
     },

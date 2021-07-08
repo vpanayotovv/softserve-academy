@@ -47,6 +47,7 @@
     "device": "Pixel3",
     "displayorientation": 1,
     "enabledforidletimeout": false,
+    "friendlyName": "ContactList",
     "id": "ContactList",
     "info": null,
     "initdone": false,

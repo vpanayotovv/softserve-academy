@@ -66,6 +66,7 @@
     "securetextentry": false,
     "showoprogressindicator": false,
     "showprogressindicator": false,
+    "texti18n": "Notes",
     "textinputmode": "A",
     "tooltip": "",
     "viewtype": "default",

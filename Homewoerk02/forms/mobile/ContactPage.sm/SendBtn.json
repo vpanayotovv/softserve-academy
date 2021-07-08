@@ -47,6 +47,7 @@
     "paddinginpixel": false,
     "parent": "SendBtnContainer",
     "pf": "ContactPage",
+    "texti18n": "Send Message",
     "wType": "Button",
     "zindex": 1
 }
