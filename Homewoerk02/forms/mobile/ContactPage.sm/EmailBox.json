@@ -50,6 +50,7 @@
             "showClearButton": false
         }
     },
+    "iscustomlayout": false,
     "isvisible": true,
     "keyboardtype": "A",
     "kuid": "h74acb6fb79d458fa99159357806398f",
@@ -60,6 +61,8 @@
     "parent": "EmailFlexContainer",
     "pf": "ContactPage",
     "placeholderskin": "s09203281e974036a7fce8c99c51462a",
+    "retaincontentalignment": true,
+    "retainflexpositionproperties": true,
     "securetextentry": false,
     "showclearbutton": false,
     "textinputmode": "A",

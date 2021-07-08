@@ -40,6 +40,7 @@
     "focusskin": "s04c0a1aa8dd4fbf93118a0c6e053375",
     "id": "SendBtn",
     "info": null,
+    "iscustomlayout": false,
     "isvisible": true,
     "kuid": "bd8bb4c5187a4fb79932ab532176af64",
     "masterType": 1,

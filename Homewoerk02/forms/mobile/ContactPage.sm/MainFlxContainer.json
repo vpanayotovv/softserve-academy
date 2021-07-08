@@ -59,7 +59,7 @@
     "parent": "ContactPage",
     "pf": "ContactPage",
     "retaincontentalignment": false,
-    "retainflexpositionproperties": true,
+    "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
