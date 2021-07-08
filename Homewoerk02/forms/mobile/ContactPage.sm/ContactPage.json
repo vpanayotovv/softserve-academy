@@ -40,7 +40,7 @@
             "name": "ContactPageController"
         }
     },
-    "currentLocale": "ar",
+    "currentLocale": "none",
     "desktopweb": {
         "needAppMenu": false
     },
@@ -101,7 +101,7 @@
     "paddinginpixel": false,
     "platform": "android",
     "prevDevice": "iPhoneXS",
-    "prevPlatform": "spaip",
+    "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
