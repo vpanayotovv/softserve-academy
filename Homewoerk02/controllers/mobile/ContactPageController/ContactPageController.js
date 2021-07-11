@@ -35,9 +35,7 @@ define({
       this.view.PhoneFlexContainer.txtPhoneRounded.setFocus(true);
       this.flagEdit = false;
     }else{
-      this.view.PhoneFlexContainer.txtPhoneRounded.setFocus(false);
-      this.view.EmailFlexContainer.EmailBox.setFocus(false);
-      this.view.NotesFlexContainer.NotesBox.setFocus(false);
+      this.view.NotesFlexContainer.setFocus(true);
       
       this.view.PhoneFlexContainer.setEnabled(false);
       this.view.EmailFlexContainer.setEnabled(false);
