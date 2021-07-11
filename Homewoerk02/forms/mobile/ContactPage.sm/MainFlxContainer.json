@@ -43,7 +43,8 @@
         "PhoneFlexContainer",
         "EmailFlexContainer",
         "NotesFlexContainer",
-        "ButtonsFlexContainer"
+        "ButtonsFlexContainer",
+        "CompWoContract"
     ],
     "clipbounds": true,
     "containerweight": 100,
